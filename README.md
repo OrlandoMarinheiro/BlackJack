@@ -4,4 +4,4 @@ This project was developed as part of the Introduction to Computer Engineering c
 
 # **How to view the website**
 
-You can see the website [here](https://marinhas.github.io/BlackJack/).
+You can see the website [here](https://orlandomarinheiro.github.io/BlackJack/).
